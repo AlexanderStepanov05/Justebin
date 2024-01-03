@@ -10,23 +10,27 @@ Justebin is an open-source project that provides a platform for sharing and stor
 - ...
 
 ## Technical overview ##
-
 ### Microservices architechture ###
 The Justebin platform is built on a microservices architecture, allowing for scalability, maintainability, and ease of deployment.
 
 1. [User Management Service](https://github.com/AlexanderStepanov05/user-service)
    - ...
    - ...
-2.
-3.  
+2. Text Storage Service
+   - ...
+   - ...
+3. Short Link Service
+   - ...
+   - ... 
 
 ### Technology stack ###
-
 #### Backend ####
 - Java
-- ...
-- ...
-- ...
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- ..
+- ..
 
 #### Infrastructure ####
 - Docker
